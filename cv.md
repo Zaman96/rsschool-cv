@@ -26,3 +26,19 @@ Although from childhood there was a book on Fortran in my home library, but I wa
 - Git, GitHub.
 - VS Code.
 - Adobe Photoshop, Illustrator, AE.
+---
+## Code example:
+ 
+```
+// This is a JS example
+var test = "Hello";
+console.log(test);
+```
+## Experience:
+## Education:
+- Courses: CS50 lectures, FreeCodeCamp ,HTML Academy
+
+## English:
+## B2
+
+
